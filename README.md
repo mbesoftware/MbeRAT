@@ -1,6 +1,8 @@
-# MbeRAT by Burak Eyidoğan
+### MbeRAT by Burak Eyidoğan
 
-#### XMR Miner Barındıran Gelişmiş RAT Yazılımı
+<p align="center">
+     XMR Miner Barındıran Gelişmiş RAT Yazılımı.
+    <br>
 
 * MbeRAT Özellikleri
 
