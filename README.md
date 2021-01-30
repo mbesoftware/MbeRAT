@@ -18,6 +18,8 @@
 
 > Her Güncellemede Kendini Otomatik Güncelleme Özelliğine Sahiptir.
 
-* Yazılımın Yasa Dışı Kullanımlarından Kullanıcı Sorumludur.
+```
+Yazılımın Yasa Dışı Kullanımlarından Kullanıcı Sorumludur.
+```
 
 Made by :tr: :heart:
