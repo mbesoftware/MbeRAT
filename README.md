@@ -1,2 +1,3 @@
-# MbeRAT
-XMR Miner Barındıran Gelişmiş RAT Yazılımı
+# MbeRAT by Burak Eyidoğan
+
+**XMR Miner Barındıran Gelişmiş RAT Yazılımı
