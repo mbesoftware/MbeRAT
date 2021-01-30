@@ -1,4 +1,8 @@
 ### [MbeRAT](https://github.com/mbesoftware) by Burak Eyidoğan
+---
+[DESTEK|SUPPORT](t.me/Noxus_0)
+
+---
 
 <p align="center">
      XMR Miner Barındıran Gelişmiş RAT Yazılımı.
